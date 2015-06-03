@@ -6,7 +6,7 @@
 ## - Več sporočil v statusni vrstici (Label spodaj)
 ## - Premikanje označenih objektov z Drag&Drop
 ## - Odpraviti še kak hrošček :)
-
+##  I WAS HERE
 from tkinter import *
 from tkinter.colorchooser import *
 import math
